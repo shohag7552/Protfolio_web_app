@@ -10,4 +10,4 @@ https://github.com/user-attachments/assets/3e9aa564-21d1-4397-af4b-b58485da7f46
 
 ## Visitors Count
 
-<img align="left" src = "https://profile-counter.glitch.me/website_app/count.svg" alt ="Loading"># Protfolio_web_app
+<img align="left" src = "https://profile-counter.glitch.me/Protfolio_web_app/count.svg" alt ="Loading"> # Protfolio_web_app
