@@ -5,7 +5,8 @@ class Images {
   static const String protfolio = 'assets/images/protfolio.png';
   static const String foodApp = 'assets/images/food_app.jpg';
   static const String growfresh = 'assets/images/growfresh.png';
-  static const String profile = 'assets/images/mehedi_hasan.jpeg';
+  static const String profile1 = 'assets/images/mehedi_hasan.jpeg';
+  static const String profile = 'assets/images/mehedi-pic.png';
   static const String buildNew = 'assets/images/android_ios.png';
   static const String maintainApp = 'assets/images/app_maintain.webp';
   static const String ammartStore = 'assets/images/6amMart_store_app.webp';
